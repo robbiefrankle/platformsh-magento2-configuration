@@ -111,9 +111,7 @@ class Platformsh
 
         $this->execute("php bin/magento module:enable --all");
 
-        $this->log("Compiling generated files.");
-
-        $this->execute("php bin/magento setup:di:compile");
+        
     }
 
     /**
