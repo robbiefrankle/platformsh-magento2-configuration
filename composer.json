@@ -1,13 +1,13 @@
 {
-  "name": "platformsh/magento2-configuration",
+  "name": "robbiefrankle/magento2-configuration",
   "description": "Provides configuration to deploy a Magento 2 project on Platform.sh",
   "license": "MIT",
   "authors": [
     {
-      "name": "Augustin Delaporte"
+      "name": "Robbie Frankle"
     },
     {
-      "name": "wojtek"
+      "name": "rbfrnk"
     }
   ],
   "require": {
